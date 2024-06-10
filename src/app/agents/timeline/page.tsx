@@ -13,7 +13,7 @@ import Panorama from "@/components/Panorama";
 
 //This is new - just provide a high level goal and groq will figure out how to make agents
 const agentGoal =
-  "Build an offshore aquaculture farm to supply the worlds protein demands by 2050";
+  "Reduce desertification in the part of Sahara located in the middle of Libya by building water desalination plant that powered by nuclear power, starting from the 1990 to 2050 in the alternate reality that Chernobyl incident never occur. ";
 //set your agents here. If you leave this empty then Groq creates some for you based on your graph and the goal above.
 const initAgents: any = [];
 //if this is true, agents add nodes to the graph as well as update implementation data. Its slower.

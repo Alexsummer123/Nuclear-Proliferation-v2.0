@@ -8,7 +8,7 @@ export default function Home() {
     >
       <div className="bg-white bg-opacity-50 p-10 rounded-lg shadow-lg max-w-7xl w-full flex items-center relative">
         <div className="flex-1 md:w-1/4"> 
-          <img src="https://i.imgur.com/CiYH8Nr.png" alt="Description of the image" className="rounded-lg shadow-lg max-w-xs mx-auto" style={{ transform: 'scale(1.5)' }}/>
+          <img src="https://i.imgur.com/KLKmbHx.jpg" alt="Description of the image" className="rounded-lg shadow-lg max-w-xs mx-auto" style={{ transform: 'scale(1.75)' }}/>
         </div>
         <div className="flex-1">
           <div className="text-justify"> 

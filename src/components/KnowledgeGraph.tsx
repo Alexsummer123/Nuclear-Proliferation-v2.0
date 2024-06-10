@@ -33,7 +33,7 @@ export default function KnowledgeGraph({
   const [nodes, setNodes] = useState<GNode[]>(graph.nodes);
   const [edges, setEdges] = useState<Edge[]>(graph.edges);
   const [concept, setConcept] = useState<string>(
-    "Design and engineering considerations for an offshore salmon farm"
+    "Reduce desertification in the part of Sahara located in the middle of Libya by building water desalination plant that powered by nuclear power and will expanding overtime, starting from the 1990 to 2050 in the alternate reality that Chernobyl incident never occur."
   );
   const [generating, setGenerating] = useState<boolean>(false);
   const [selectedNode, setSelectedNode] = useState<GNode | null>(null);

@@ -16,8 +16,6 @@ export default function Home() {
                 
                 { href: "/agents", text: "World Engine Simulation" },
 
-                { href: "/panorama", text: "Panoramic" },
-
               ].map((link) => (
 
               <Link href={link.href} key={link.href}>
