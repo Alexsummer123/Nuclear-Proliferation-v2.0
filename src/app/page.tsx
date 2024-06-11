@@ -12,9 +12,9 @@ export default function Home() {
           <div className="flex flex-col items-center space-y-4">
             {
               [
-                { href: "/agents", text: "World Engine Simulation" },
-
                 { href: "/start", text: "Start" },
+
+                { href: "/agents", text: "World Engine Simulation" },
 
               ].map((link) => (
 
