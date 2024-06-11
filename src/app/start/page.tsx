@@ -15,13 +15,13 @@ export default function Home() {
             <h1 className="text-4xl font-bold mb-4 font-custom">NUCLEAR PROLIFERATION</h1>
             <div className="text-lg mb-9">
               <p className="mb-9">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              In an effort to address Libya's pressing need for water and energy, a transformative initiative has been launched to establish a corridor of nuclear power plants (NPP) and desalination plants (DP) spanning from Sabha to Sirte in the Sahara Desert. The NPPs will harness the region's abundant uranium reserves, sourced from neighbouring Niger, to generate clean energy for both plant operations and the wider grid. The DP, powered by the NPPs, will utilize advanced pumping systems to extract seawater and groundwater, providing a sustainable water supply for cities and agricultural development. Integral to this vision is the creation of a vast green area using the 'circle of life' technology, circular plots of land irrigated by desalinated water, transforming a significant portion of the arid landscape into a productive agricultural hub, with the potential to bolster Libya's food security and unlock economic opportunities in the region.
               </p>
               <p className="mb-9">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              As the project progresses, cities along the corridor, such as Sabha and Sirte, are anticipated to experience significant economic growth and urban development. However, challenges remain, particularly in waste management from desalination operations. 
               </p>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              The project aims to address this problem by selling the waste to a different company for refining, ensuring the responsible management of by-products and reducing environmental harm. Nonetheless, this initiative represents a bold step towards a greener and more prosperous future for Libya.
               </p>
             </div>
             <div className="flex justify-center flex-wrap"> 
