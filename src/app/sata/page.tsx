@@ -14,6 +14,12 @@ export default function Home() {
     { src: "https://i.imgur.com/F0lICJc.png", title: "Africa and Europe relationship ", description: "This diagram shows the relationship of political and military between the Northern Africa and European superpower in context with nuclear power and technology. " },
     { src: "https://i.imgur.com/WujpE51.png", title: "Energy demands Timeline "},
     { src: "https://i.imgur.com/i0taHOH.png", title: "Energy demand growth "},
+    { src: "https://i.imgur.com/4BjNjJa.png", title: "Corridor proect Area of green circles "},
+    { src: "https://i.imgur.com/vheTYn8.png", title: "Water Consumption "},
+    { src: "https://i.imgur.com/EVGVzZ7.png", title: "Desalination plant and waste "},
+    { src: "https://i.imgur.com/BnAwDuy.png", title: "Area of  Green circle on Sabha "},
+    { src: "https://i.imgur.com/0Yv4CIb.png", title: "Sabha Water consumption "},
+    { src: "https://i.imgur.com/x5AQhUD.png", title: "Desalination plan and waster in Sabha "},
     { src: "https://i.imgur.com/03r1bO2.jpg", title: "Nuclear Proliferation project " },
     { src: "https://i.imgur.com/LkSESot.jpg", title: "Expansion overtime", description: "The project has its pilot program starting in the year 1990 in the city called Sabha. This pilot program is using the underground water to supply water for the project. The project corridor is the expansion moving closer to the Mediterranean Sea to water supply. " },
     { src: "https://i.imgur.com/bflATAh.jpg", title: "1990 Masterplan", description: "The pilot program started in the city of Sabha with a single desalination plant and nuclear power plant located within 100km radius of the city to supply energy and water. " },
@@ -21,7 +27,12 @@ export default function Home() {
     { src: "https://i.imgur.com/G4ZrOWJ.jpg", title: "2020 Masterplan ", description: "In 2020, the city expands and so does the land area of agriculture. This project grows and builds another set of desalination and nuclear power plants to supply the growing demand of the city and the agriculture." },
     { src: "https://i.imgur.com/3fqaKA3.jpg", title: "2050 Masterplan ", description: "The city of Sabha population growth and the land of agriculture is expanding over time. The demand of more water supply and energy is increasing, leading to the project expansion. As the technological advancement of nuclear security system, it has become safer for the city to grow within the closer range to the nuclear reactor. " },
     { src: "https://i.imgur.com/k3bTxah.jpg", title: "The project and the city ", description: "In 2050, the city expand significantly and the project supply both energy and water to the city while have a large road connection between the powerplant and Sabha. " },
-
+    { src: "https://i.imgur.com/aZCLIIq.png", title: ""},
+    { src: "https://i.imgur.com/BGf93V6.png", title: ""},
+    { src: "https://i.imgur.com/jXA86rf.png", title: ""},
+    { src: "https://i.imgur.com/Gk5rbZX.jpeg", title: "Section of the Project Corridor ", description: " Corridor project expand the project to the North of Sabha toward the Mediterranean sea for main water supply.   " },
+    { src: "https://i.imgur.com/W2mmXFq.jpeg", title: "Section of the Pilot Project ", description: " In the early stage of the project, underground water will use to supply the desalination process.  "},
+    { src: "https://i.imgur.com/ztMTNgN.jpeg", title: "Masterplan of Corridor project", description: " This project corridor start in 2020s in the city of Sirte located next to the Mediterranean sea.  "},
     
   ];
 
